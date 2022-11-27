@@ -16,4 +16,3 @@ We learn 10 sprints during 4 month program.
 - Dashboard
 
 
-Bad
